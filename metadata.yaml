@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A History of Norwegian Immigration to the United States : From the Earliest
   Beginning down to the Year 1848'
 url: http://www.gutenberg.org/ebooks/46681
